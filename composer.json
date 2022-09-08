@@ -1,0 +1,17 @@
+{
+    "name": "duki/gerando-pdf",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "duki",
+            "email": "duki.dodier@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
